@@ -23,21 +23,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and Automation. After 5 years in the field I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with QA, programming and Automation. With 5 years of experience in the field
+               I can give a solid quality evaluation of the projects both in manual and automated testing.
               <br />
               <br />I have learnt
               <i>
-                <b className="purple"> Javascript and Python (a bit dusty). </b>
+                <b className="purple"> Javascript and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My fields of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Quality Assurance startegies with Automation </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Classic programming.
+                   Programming.
                 </b>
               </i>
               <br />
