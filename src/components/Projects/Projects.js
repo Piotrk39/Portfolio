@@ -9,6 +9,7 @@ import Cypress from "../../Assets/Projects/Sample Cypress UI Automation.png";
 import Etisalat from "../../Assets/Projects/Etisalat API Automation Suite.png";
 import SOF from "../../Assets/Projects/Etisalat API Automation Suite.png";
 import Spotify from "../../Assets/Projects/Spotify Postman Automated Test Suite.png"
+import Playwright from "../../Assets/Projects/Playwright.png";
 import FlightScanner from "../../Assets/Projects/Flight Scanner Cypress Test.png"
 
 function Projects() {
@@ -113,6 +114,15 @@ function Projects() {
               title="Flight Scanner Cypress Test"
               description="Cypress automation test suite designed for the need of assesment. It tests the Flight Search engine form with the use of Fixtrures and predefined data. It also provides the checkup of additional options. Reusable code has been gathered as Cypress Command."
               ghLink="https://github.com/Piotrk39/automatic-train-etraveli"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Playwright}
+              isBlog={false}
+              title="Playwright Test Autoamtion Suite"
+              description="Playwright automation test suite is designed on top of Cypress' Real World Bank App so I could present the possibilities of Playwright in it's full glory. The pattern used is POM with the use of ES6 and Fixtures."
+              ghLink="https://github.com/Piotrk39/Real-World-Test-Suite"
             />
           </Col>
         </Row>
