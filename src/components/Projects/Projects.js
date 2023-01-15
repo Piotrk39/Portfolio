@@ -61,7 +61,7 @@ function Projects() {
               title="Keeper"
               description="Note taking application Developed using MERN tech stack with React.js on the front and Node.js on the back. App uses variety of REST APIs that perform CRUD functions in the APP. Feel free to check it out and leave your feedback."
               ghLink="https://github.com/Piotrk39/Keepr_APP"
-              demoLink="https://piotr-krajewski-keeper-app.netlify.app/"
+              demoLink="https://mern-project-front.onrender.com/"
             />
           </Col>
 
@@ -72,7 +72,7 @@ function Projects() {
               title="Favorite 2 Playlist"
               description="My flagship project that solely pushed me to learn JavaScript. This application is based on Spotify's API and allows user to create sharable playlist from his liked songs. Since the status of the project is still 'Under-Develpment' please contact me or copy Repository for testing."
               ghLink="https://github.com/Piotrk39/Spotify-Sharable-Liked-Playlist"
-              demoLink="https://cozy-kangaroo-1ffee6.netlify.app/"              
+              demoLink="https://f2p-front-end.onrender.com"              
             />
           </Col>
 
