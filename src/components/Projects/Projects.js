@@ -10,7 +10,8 @@ import Etisalat from "../../Assets/Projects/Etisalat API Automation Suite.png";
 import SOF from "../../Assets/Projects/Etisalat API Automation Suite.png";
 import Spotify from "../../Assets/Projects/Spotify Postman Automated Test Suite.png"
 import Playwright from "../../Assets/Projects/Playwright.png";
-import FlightScanner from "../../Assets/Projects/Flight Scanner Cypress Test.png"
+import FlightScanner from "../../Assets/Projects/Flight Scanner Cypress Test.png";
+import ArtisticPortfolio from "../../Assets/Projects/Artistic_Portfolio_Nikoletta.png";
 
 function Projects() {
   return (
@@ -24,6 +25,15 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ArtisticPortfolio}
+              isBlog={false}
+              title="Artistic Portfolio"
+              description="My first commercial client based project focused solely on presenting the client's work in the most efficient way without loosing any quality."
+              demoLink="https://nikoletta-papakonstantinou.com/"
+            />
+          </Col>
         <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Playwright}
